@@ -209,7 +209,7 @@
     "istherenet": "https://raw.githubusercontent.com/ugurkocde/IntuneBrew/main/Apps/istherenet.json",
     "iterm2": "https://raw.githubusercontent.com/ugurkocde/IntuneBrew/main/Apps/iterm2.json",
     "itsycal": "https://raw.githubusercontent.com/ugurkocde/IntuneBrew/main/Apps/itsycal.json",
-    "jabra_direct": "https://raw.githubusercontent.com/Appelcloud/IntuneBrew/refs/heads/main/Apps/jabra_direct.json",
+    "jabra_direct": "https://raw.githubusercontent.com/Appelcloud/IntuneBrew/Test/Apps/jabra_direct.json",
     "jamie": "https://raw.githubusercontent.com/ugurkocde/IntuneBrew/main/Apps/jamie.json",
     "jellyfin": "https://raw.githubusercontent.com/ugurkocde/IntuneBrew/main/Apps/jellyfin.json",
     "jetbrains_phpstorm": "https://raw.githubusercontent.com/ugurkocde/IntuneBrew/main/Apps/jetbrains_phpstorm.json",
