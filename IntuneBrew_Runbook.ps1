@@ -589,7 +589,7 @@ function Add-IntuneAppLogo {
 }
 
 # Fetch supported apps from GitHub repository
-$supportedAppsUrl = "https://raw.githubusercontent.com/Appelcloud/IntuneBrew/refs/heads/Test/supported_apps.json"
+$supportedAppsUrl = "https://raw.githubusercontent.com/Appelcloud/IntuneBrew/Test/supported_apps.json"
 $githubJsonUrls = @()
 
 try {
