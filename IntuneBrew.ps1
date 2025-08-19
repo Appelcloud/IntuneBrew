@@ -126,7 +126,7 @@ Write-Host "You can sponsor the development of this project at https://github.co
 Write-Host ""
 
 # Define GitHub repository to check for supported apps
-$gitHubRespositoryRawUrl = "https://raw.githubusercontent.com/ugurkocde/IntuneBrew"
+$gitHubRespositoryRawUrl = "https://raw.githubusercontent.com/Appelcloud/IntuneBrew"
 
 # Authentication START
 
