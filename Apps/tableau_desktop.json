@@ -2,11 +2,10 @@
   "name": "Tableau Desktop",
   "description": "Data visualization software",
   "version": "2025.2.1",
-  "url": "https://kitsa01.blob.core.windows.net/ressourcekit/TableauDesktop-2025-2-1-arm64.dmg",
+  "url": "https://kitsa01.blob.core.windows.net/ressourcekit/TableauDesktop-2025-2-1-arm64.pkg",
   "bundleId": "com.tableausoftware.tableaudesktop",
   "homepage": "https://www.tableau.com/products/desktop",
-  "fileName": "TableauDesktop-2025-2-1-arm64.dmg",
-  "type": "dmg_to_pkg",
+  "fileName": "TableauDesktop-2025-2-1-arm64.pkg",
   "sha": "e240e8f8872ad511a69f0a33264987fa2f0fa8d935b52aef9d6aa1e297fbbf4b",
   "changelog": "https://www.tableau.com/support/releases/desktop",
   "previous_version": "2025.2.1"
