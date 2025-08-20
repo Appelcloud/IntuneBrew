@@ -126,7 +126,7 @@ Write-Host "You can sponsor the development of this project at https://github.co
 Write-Host ""
 
 # Define GitHub repository to check for supported apps
-$gitHubRespositoryRawUrl = "https://raw.githubusercontent.com/Appelcloud/IntuneBrew/"
+$gitHubRespositoryRawUrl = "https://raw.githubusercontent.com/Appelcloud/IntuneBrew"
 
 # Authentication START
 
@@ -1034,7 +1034,7 @@ function Convert-ScriptToBase64 {
 }
 
 # Fetch supported apps from GitHub repository
-$supportedAppsUrl = "$gitHubRespositoryRawUrl/refs/heads/Test/supported_apps.json"
+$supportedAppsUrl = "$gitHubRespositoryRawUrl/Test/supported_apps.json"
 $githubJsonUrls = @()
 
 try {

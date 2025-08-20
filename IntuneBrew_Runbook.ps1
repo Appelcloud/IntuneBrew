@@ -704,7 +704,7 @@ function Is-ValidUrl {
         [string]$url
     )
 
-    if ($url -match "^https://github.com/Appelcloud/IntuneBrew/Test/Apps/.*\.json$") {
+    if ($url -match "^https://raw.githubusercontent.com/Appelcloud/IntuneBrew/Test/Apps/.*\.json$") {
         return $true
     }
     else {
